@@ -4,6 +4,8 @@ Development of an information system for assessing the state of vegetation (incl
 
 ## Installing
 
+python 3x
+
 ```
 pip install wxpython 
 
@@ -22,3 +24,11 @@ Add the file 'vegindex.sql' to the phpmyadmin database.
 
 ## Exsamples
 
+### Form for authorization and registration
+
+
+### Main form
+
+<br>
+<img src='https://user-images.githubusercontent.com/59700293/96001142-c1fdc500-0e48-11eb-8a32-d51d91ea3c77.png' height=350 width=650/>
+<br>
