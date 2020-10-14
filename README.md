@@ -18,7 +18,7 @@ or
 pip install -r requirements.txt
 ```
 
-Add file 'vegindex.sql' in database phpmyadmin.
+Add the file 'vegindex.sql' to the phpmyadmin database.
 
 ## Exsamples
 
